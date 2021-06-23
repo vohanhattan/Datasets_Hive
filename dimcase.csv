@@ -1,0 +1,129 @@
+case_id,infection_case,group
+1000001,Itaewon Clubs,-1
+1000002,Guro-gu Call Center,-1
+1000003,Dongan Church,-1
+1000004,Manmin Central Church,-1
+1000005,Eunpyeong St. Mary's Hospital,-1
+1000006,Seongdong-gu APT,-1
+1000007,Jongno Community Center,-1
+1000008,Samsung Medical Center,-1
+1000009,Jung-gu Fashion Company,-1
+1000010,Yeonana News Class,-1
+1000011,Korea Campus Crusade of Christ,-1
+1000012,Coupang Logistics Center,-1
+1000013,Shincheonji Church,-1
+1000014,Guri Collective Infection,-1
+1000015,KB Life Insurance,-1
+1000016,Yeongdeungpo Learning Institute,-1
+1000017,overseas inflow,0
+1000018,contact with patient,0
+1000019,etc,0
+1100001,Onchun Church,-1
+1100002,Shincheonji Church,-1
+1100003,Suyeong-gu Kindergarten,-1
+1100004,Haeundae-gu Catholic Church,-1
+1100005,Jin-gu Academy,-1
+1100006,Itaewon Clubs,-1
+1100007,Cheongdo Daenam Hospital,-1
+1100008,overseas inflow,0
+1100009,contact with patient,0
+1100010,etc,0
+1200001,Shincheonji Church,-1
+1200002,Second Mi-Ju Hospital,-1
+1200003,Hansarang Convalescent Hospital,-1
+1200004,Daesil Convalescent Hospital,-1
+1200005,Fatima Hospital,-1
+1200006,Itaewon Clubs,-1
+1200007,Cheongdo Daenam Hospital,-1
+1200008,overseas inflow,0
+1200009,contact with patient,0
+1200010,etc,0
+1300001,Shincheonji Church,-1
+1300002,overseas inflow,0
+1300003,contact with patient,0
+1300004,etc,0
+1400001,Itaewon Clubs,-1
+1400002,Coupang Logistics Center,-1
+1400003,Guro-gu Call Center,-1
+1400004,Shincheonji Church,-1
+1400005,overseas inflow,0
+1400006,contact with patient,0
+1400007,etc,0
+1500001,Korea Forest Engineer Institute,-1
+1500002,Shincheonji Church,-1
+1500003,Seosan-si Laboratory,-1
+1500004,overseas inflow,0
+1500005,contact with patient,0
+1500006,etc,0
+1600001,Shincheonji Church,-1
+1600002,overseas inflow,0
+1600003,contact with patient,0
+1600004,etc,0
+1700001,Ministry of Oceans and Fisheries,-1
+1700002,gym facility in Sejong,-1
+1700003,Shincheonji Church,-1
+1700004,overseas inflow,0
+1700005,contact with patient,0
+1700006,etc,0
+2000001,Coupang Logistics Center,-1
+2000002,River of Grace Community Church,-1
+2000003,Guro-gu Call Center,-1
+2000004,Uijeongbu St. Mary’s Hospital,-1
+2000005,Shincheonji Church,-1
+2000006,Bundang Jesaeng Hospital,-1
+2000007,Suwon Saeng Myeong Saem Church,-1
+2000008,Itaewon Clubs,-1
+2000009,Korea Campus Crusade of Christ,-1
+2000010,overseas inflow,0
+2000011,contact with patient,0
+2000012,etc,0
+3000001,Shincheonji Church,-1
+3000002,Uijeongbu St. Mary’s Hospital,-1
+3000003,Wonju-si Apartments,-1
+3000004,overseas inflow,0
+3000005,contact with patient,0
+3000006,etc,0
+4000001,Shincheonji Church,-1
+4000002,Goesan-gun Jangyeon-myeon,-1
+4000003,overseas inflow,0
+4000004,contact with patient,0
+4000005,etc,0
+4100001,gym facility in Cheonan,-1
+4100002,Seosan-si Laboratory,-1
+4100003,overseas inflow,0
+4100004,contact with patient,0
+4100005,etc,0
+5000001,Shincheonji Church,-1
+5000002,overseas inflow,0
+5000003,etc,0
+5100001,Manmin Central Church,-1
+5100002,Shincheonji Church,-1
+5100003,overseas inflow,0
+5100004,contact with patient,0
+5100005,etc,0
+6000001,Shincheonji Church,-1
+6000002,Cheongdo Daenam Hospital,-1
+6000003,Bonghwa Pureun Nursing Home,-1
+6000004,Pilgrimage to Israel,-1
+6000005,Milal Shelter,-1
+6000006,Gyeongsan Seorin Nursing Home,-1
+6000007,Yechun-gun,-1
+6000008,Gyeongsan Jeil Silver Town,-1
+6000009,Gyeongsan Cham Joeun Community Center,-1
+6000010,overseas inflow,0
+6000011,contact with patient,0
+6000012,etc,0
+6100001,Shincheonji Church,-1
+6100002,Geochang Church,-1
+6100003,Geochang-gun Woongyang-myeon,-1
+6100004,Wings Tower,-1
+6100005,Hanmaeum Changwon Hospital,-1
+6100006,Changnyeong Coin Karaoke,-1
+6100007,Onchun Church,-1
+6100008,overseas inflow,0
+6100009,contact with patient,0
+6100010,etc,0
+7000001,overseas inflow,0
+7000002,contact with patient,0
+7000003,etc,0
+7000004,Itaewon Clubs,-1
